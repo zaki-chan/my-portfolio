@@ -1,0 +1,10 @@
+@import '../variables';
+
+.container {
+  margin: 0 2rem;
+
+  // ↓768px以下で適用したいCSS
+  @include mq(md) {
+     margin: 0 1rem;
+  }
+}

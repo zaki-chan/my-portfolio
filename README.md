@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+1.https://zenn.dev/hrkmtsmt/articles/93653309e2a13d
+2.https://zenn.dev/catnose99/scraps/5e3d51d75113d3
 # my-portfolio
 This repository is used for my portfolio web page.
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> a196b0b (Initialize project using Create React App)
