@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Routes, Link } from 'react-router-dom'
 const Header = () => {
   return (
     <div className='header'>
-      <h1>Title of the portfolio</h1>
+      <h1>Title of my portfolio</h1>
       <nav className="menu">
         <ul>
           <li><Link to='/'>Top</Link></li>
