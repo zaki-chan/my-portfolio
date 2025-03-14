@@ -28,6 +28,10 @@
     "dev": "webpack serve --open"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "postcss-loader": "^8.1.1",
+    "tailwindcss": "3.0.23",
     "webpack": "^5.96.1"
   }
 }
