@@ -2,6 +2,7 @@ import React from 'react'
 import { BrowserRouter, Route, Routes, Link } from 'react-router-dom'
 import Header from './Header'
 
+
 // import pages
 import Top from '../pages/top'
 import Profile from '../pages/profile'
@@ -25,6 +26,7 @@ const App = () => {
           <Route path="/blog" element={<Blog />}></Route>
           <Route path="/contact" element={<Contact />}></Route>
       </Routes>
+
       <div className="font-bold underline">Hello World!</div>
     </>
   )
