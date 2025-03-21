@@ -1,3 +1,13 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+.menu ul{
+    display:flex;
+    flex-flow: row;
+    justify-content: space-around;
+    margin: 0;
+    padding: 6px;
+    list-style-type: none;
+}
+
